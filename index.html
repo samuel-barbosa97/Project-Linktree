@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/070428bd88.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Links</title>
+</head>
+<body>
+    <div class="container">
+        <div class="head__section">
+            <img src="/user1.jpg" alt="">
+            <p>Olá, sou o Samuel, me siga nas seguintes redes:</p>
+        </div>
+        <div class="social__links">
+            <ul id="item">
+                <li class="instagram"><a href="#">
+                    <i class="fa fa-instagram"></i>
+                    <span>
+                        <h3>@Barbozza_97</h3>
+                        <p>Me siga para mais conteúdos e informações.</p>
+                    </span>
+                </a></li>
+                <li class="linkedin"><a href="#">
+                    <i class="fa fa-linkedin"></i>
+                     <span>
+                        <h3>Samuel Barbosa</h3>
+                        <p>Conecte-se comigo para via Linkedin.</p>
+                    </span>
+                </a></li>
+                <li class="telegram"><a href="#">
+                    <i class="fa fa-telegram"></i>
+                     <span>
+                        <h3>Samuel Barbosa</h3>
+                        <p>Para contato direto segue meu Telegram.</p>
+                    </span>
+                </a></li>
+                <li class="github"><a href="#">
+                    <i class="fa fa-github"></i>
+                     <span>
+                        <h3>samuel-barbosa97</h3>
+                        <p>Acompanhe meus projetos no Github.</p>
+                    </span>
+                </a></li>
+            </ul>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="vanilla-tilt.min.js"></script>
+    <script>
+        VanillaTilt.init(document.querySelectorAll(".social__links ul li"), {
+		max: 10,
+		speed: 800,
+        glare: true,
+        "max-glare": 1
+	});
+    </script>
+</body>
+</html>
