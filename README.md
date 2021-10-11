@@ -1,6 +1,6 @@
 ## Linktree 🌳🔗
 
-Trablhando com HTML e CSS, adicionando um pacote de Javascript para efeitos de transição, trago um modelo de "Linktree" ou árvore de links, utilizadas em redes sociais.
+Trabalhando com HTML e CSS, adicionando um pacote de Javascript para efeitos de transição, trago um modelo de "Linktree" ou árvore de links, utilizadas em redes sociais.
 
 Preview:
 
