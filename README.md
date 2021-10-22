@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img alt="Project" src="https://64.media.tumblr.com/94a8316d3d76e2cb114a189afd9c8dba/tumblr_mxxd9r6Wle1t0hq1jo1_500.gifv" width="120px" />
+  <img alt="Project" src="![met-gala-download-GIF-unscreen](https://user-images.githubusercontent.com/89155684/138463511-c77e32c1-c0f2-439b-a03a-eab2cf142fcd.gif)
+" width="120px" />
 </h1>
 
 <h3 align="center">
