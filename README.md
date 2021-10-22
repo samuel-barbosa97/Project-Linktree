@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Project" src="![met-gala-download-GIF-unscreen](https://user-images.githubusercontent.com/89155684/138463511-c77e32c1-c0f2-439b-a03a-eab2cf142fcd.gif)
+  <img alt="Project" src="https://media1.giphy.com/media/51LroAULHlkqY/giphy.gif"
 " width="120px" />
 </h1>
 
