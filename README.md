@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Proejto - Linktree
+  Linktree
 </h3>
 
 <p align="center">Neste projeto é desenvolvido uma árvore de links, muito utilizadas em redes sociais, trabalhando os conceitos de card hover no CSS.</p>
